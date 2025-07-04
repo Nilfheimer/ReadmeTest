@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="YOUR_LIVE_DEMO_URL_HERE"><strong>🚀 Live Demo</strong></a> •
-  <a href="YOUR_GOOGLE_DRIVE_ASSETS_LINK"><strong>📁 Project Assets</strong></a> •
+  <a href="https://drive.google.com/drive/folders/1234567890abcdefghijk"><strong>📁 Project Assets</strong></a> •
   <a href="#-features"><strong>✨ Features</strong></a> •
   <a href="#-installation"><strong>📦 Installation</strong></a> •
   <a href="#-team"><strong>👥 Team</strong></a>
@@ -260,7 +260,7 @@ This project has been an incredible learning journey for our team! Starting as s
 Experience SayurKita in action! Click the link below to access our live demonstration:
 
 <p align="center">
-  <a href="YOUR_LIVE_DEMO_URL_HERE">
+  <a href="https://sayurkita-demo.vercel.app">
     <img src="https://img.shields.io/badge/🌐-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
 </p>
@@ -276,7 +276,7 @@ Experience SayurKita in action! Click the link below to access our live demonstr
 All project assets, documentation, and additional resources are stored in our Google Drive:
 
 <p align="center">
-  <a href="google.com">
+  <a href="https://drive.google.com/drive/folders/1234567890abcdefghijk">
     <img src="https://img.shields.io/badge/📁-Project%20Assets-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Project Assets">
   </a>
 </p>
@@ -322,7 +322,7 @@ All project assets, documentation, and additional resources are stored in our Go
 
 ### **🎬 Video Walkthrough**
 <p align="center">
-  <a href="youtube.com">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/🎬-Video%20Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo">
   </a>
 </p>
@@ -414,8 +414,8 @@ We extend our heartfelt gratitude to:
 
 <p align="center">
   <a href="mailto:your.email@example.com">📧 Email</a> •
-  <a href="YOUR_LIVE_DEMO_URL_HERE">🌐 Live Demo</a> •
-  <a href="YOUR_GOOGLE_DRIVE_ASSETS_LINK">📁 Assets</a> •
+  <a href="https://sayurkita-demo.vercel.app">🌐 Live Demo</a> •
+  <a href="https://drive.google.com/drive/folders/1234567890abcdefghijk">📁 Assets</a> •
   <a href="https://github.com/YOUR_USERNAME/SayurKita">📱 GitHub</a>
 </p>
 
