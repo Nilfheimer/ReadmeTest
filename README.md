@@ -413,7 +413,7 @@ We extend our heartfelt gratitude to:
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">📧 Email</a> •
+  <a href="[mailto:your.email@example.com](https://www.google.com/search?q=gmail&oq=gmail&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDEwOThqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)">📧 Email</a> •
   <a href="https://sayurkita-demo.vercel.app">🌐 Live Demo</a> •
   <a href="https://drive.google.com/drive/folders/1234567890abcdefghijk">📁 Assets</a> •
   <a href="https://github.com/YOUR_USERNAME/SayurKita">📱 GitHub</a>
