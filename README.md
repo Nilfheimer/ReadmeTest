@@ -26,6 +26,7 @@
 
 <p align="center">
   <a href="YOUR_LIVE_DEMO_URL_HERE"><strong>🚀 Live Demo</strong></a> •
+  <a href="YOUR_GOOGLE_DRIVE_ASSETS_LINK"><strong>📁 Project Assets</strong></a> •
   <a href="#-features"><strong>✨ Features</strong></a> •
   <a href="#-installation"><strong>📦 Installation</strong></a> •
   <a href="#-team"><strong>👥 Team</strong></a>
@@ -253,25 +254,80 @@ This project has been an incredible learning journey for our team! Starting as s
 
 ---
 
-## 📱 **Screenshots & Demo**
+## 🌐 **Live Demo & Assets**
 
-<!-- Replace these with your actual screenshot paths -->
+### **🚀 Live Demo**
+Experience SayurKita in action! Click the link below to access our live demonstration:
+
+<p align="center">
+  <a href="YOUR_LIVE_DEMO_URL_HERE">
+    <img src="https://img.shields.io/badge/🌐-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+> **Demo Credentials:**
+> - **User Email**: `demo@sayurkita.com`
+> - **User Password**: `demo123`
+> - **Admin Email**: `admin@sayurkita.com`
+> - **Admin Password**: `admin123`
+
+### **📁 Project Assets & Resources**
+
+All project assets, documentation, and additional resources are stored in our Google Drive:
+
+<p align="center">
+  <a href="YOUR_GOOGLE_DRIVE_ASSETS_LINK">
+    <img src="https://img.shields.io/badge/📁-Project%20Assets-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Project Assets">
+  </a>
+</p>
+
+**What's included in the Drive:**
+- 📸 **High-Quality Screenshots** - All application screens
+- 🎨 **Design Assets** - Logo, banners, and UI elements
+- 📋 **Project Documentation** - Reports, presentations, and guides
+- 🎬 **Demo Videos** - Application walkthrough and features
+- 📊 **Database Schema** - ER diagrams and table structures
+- 🔧 **Setup Files** - Configuration templates and sample data
+
+### **📱 Application Screenshots**
+
 <details>
 <summary>🖼️ <strong>Click to view screenshots</strong></summary>
 
-### Landing Page
+### 🏠 Landing Page
 <img src="path/to/landing-page-screenshot.png" alt="Landing Page" width="100%">
+*Modern, clean design showcasing Indonesian vegetables*
 
-### Admin Dashboard
+### 📊 Admin Dashboard
 <img src="path/to/admin-dashboard-screenshot.png" alt="Admin Dashboard" width="100%">
+*Comprehensive control panel for content management*
 
-### Product Catalog
+### 🌱 Product Catalog
 <img src="path/to/product-catalog-screenshot.png" alt="Product Catalog" width="100%">
+*Beautiful vegetable showcase with detailed information*
 
-### Blog Section
+### 📝 Blog Section
 <img src="path/to/blog-screenshot.png" alt="Blog Section" width="100%">
+*Educational content about Indonesian vegetables*
+
+### 🔍 Search & Filter
+<img src="path/to/search-filter-screenshot.png" alt="Search & Filter" width="100%">
+*Advanced search functionality for easy discovery*
+
+### 💬 Comment System
+<img src="path/to/comment-system-screenshot.png" alt="Comment System" width="100%">
+*Interactive community engagement features*
 
 </details>
+
+### **🎬 Video Walkthrough**
+<p align="center">
+  <a href="YOUR_VIDEO_DEMO_LINK">
+    <img src="https://img.shields.io/badge/🎬-Video%20Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo">
+  </a>
+</p>
+
+*A complete walkthrough of SayurKita's features and functionality*
 
 ---
 
@@ -359,6 +415,7 @@ We extend our heartfelt gratitude to:
 <p align="center">
   <a href="mailto:your.email@example.com">📧 Email</a> •
   <a href="YOUR_LIVE_DEMO_URL_HERE">🌐 Live Demo</a> •
+  <a href="YOUR_GOOGLE_DRIVE_ASSETS_LINK">📁 Assets</a> •
   <a href="https://github.com/YOUR_USERNAME/SayurKita">📱 GitHub</a>
 </p>
 
