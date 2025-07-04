@@ -276,7 +276,7 @@ Experience SayurKita in action! Click the link below to access our live demonstr
 All project assets, documentation, and additional resources are stored in our Google Drive:
 
 <p align="center">
-  <a href="YOUR_GOOGLE_DRIVE_ASSETS_LINK">
+  <a href="google.com">
     <img src="https://img.shields.io/badge/📁-Project%20Assets-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Project Assets">
   </a>
 </p>
@@ -322,7 +322,7 @@ All project assets, documentation, and additional resources are stored in our Go
 
 ### **🎬 Video Walkthrough**
 <p align="center">
-  <a href="YOUR_VIDEO_DEMO_LINK">
+  <a href="youtube.com">
     <img src="https://img.shields.io/badge/🎬-Video%20Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo">
   </a>
 </p>
