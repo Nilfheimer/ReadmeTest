@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
 </p>
 
 <p align="center">
@@ -94,25 +94,25 @@ Indonesia is blessed with incredible agricultural diversity, producing a vast ar
 ## 🛠️ **Technology Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,tailwind,git,github&theme=light" alt="Tech Stack"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,tailwind,git,github&theme=light" alt="Tech Stack"/></a>
 </p>
 
 ### **Backend Architecture**
-- 🚀 **Laravel 11** - Modern PHP framework with elegant syntax
-- 🛡️ **Laravel Sanctum** - API authentication system
-- 🗄️ **MySQL Database** - Reliable data storage
-- 📦 **Composer** - Dependency management
+- 🚀 **[Laravel 11](https://laravel.com/)** - Modern PHP framework with elegant syntax
+- 🛡️ **[Laravel Sanctum](https://laravel.com/docs/11.x/sanctum)** - API authentication system
+- 🗄️ **[MySQL Database](https://www.mysql.com/)** - Reliable data storage
+- 📦 **[Composer](https://getcomposer.org/)** - Dependency management
 
 ### **Frontend Excellence**
-- 🎨 **TailwindCSS** - Utility-first CSS framework
-- ⚡ **JavaScript** - Dynamic user interactions
-- 📱 **Responsive Design** - Mobile-first approach
+- 🎨 **[TailwindCSS](https://tailwindcss.com/)** - Utility-first CSS framework
+- ⚡ **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** - Dynamic user interactions
+- 📱 **[Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)** - Mobile-first approach
 - 🎭 **Modern UI/UX** - Clean, white theme with green accents
 
 ### **Development Tools**
-- 📦 **NPM** - Package management
-- 🔧 **Git** - Version control
-- 🏗️ **Vite** - Fast build tool
+- 📦 **[NPM](https://www.npmjs.com/)** - Package management
+- 🔧 **[Git](https://git-scm.com/)** - Version control
+- 🏗️ **[Vite](https://vitejs.dev/)** - Fast build tool
 
 ---
 
